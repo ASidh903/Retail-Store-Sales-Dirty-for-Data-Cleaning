@@ -1,1 +1,2 @@
 # Retail-Store-Sales-Dirty-for-Data-Cleaning
+The Dirty Retail Store Sales dataset contains 12,575 rows of synthetic data representing sales transactions from a retail store. The dataset includes eight product categories with 25 items per category, each having static prices. It is designed to simulate real-world sales data, including intentional "dirtiness" such as missing or inconsistent values. This dataset is suitable for practicing data cleaning, exploratory data analysis (EDA), and feature engineering.
